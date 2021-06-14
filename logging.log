@@ -1,0 +1,652 @@
+2021-06-14 05:39:55,781:INFO:The Application started successfully
+2021-06-14 05:39:59,804:INFO:Browsing the files...
+2021-06-14 05:40:14,586:INFO:An image has been added successfully
+2021-06-14 05:40:16,873:INFO:Browsing the files...
+2021-06-14 05:40:18,837:INFO:An image has been added successfully
+2021-06-14 05:40:32,932:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:35,154:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:35,155:INFO:mixing 0 of Magnitude with 0 of Phase 
+2021-06-14 05:40:35,161:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,671:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,672:INFO:mixing 1 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,692:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,703:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,703:INFO:mixing 6 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,711:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,717:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,717:INFO:mixing 12 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,726:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,732:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,732:INFO:mixing 23 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,739:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,745:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,745:INFO:mixing 31 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,751:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,756:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,756:INFO:mixing 41 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,762:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,767:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,767:INFO:mixing 45 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,775:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,780:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,781:INFO:mixing 49 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,787:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,793:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,793:INFO:mixing 56 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,800:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,804:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,804:INFO:mixing 61 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,811:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,816:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,817:INFO:mixing 67 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,825:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,832:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,832:INFO:mixing 70 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,844:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,851:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,852:INFO:mixing 76 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,864:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,872:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,872:INFO:mixing 78 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,881:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,884:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,884:INFO:mixing 83 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,892:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,897:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,897:INFO:mixing 88 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,903:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,908:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,909:INFO:mixing 90 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,916:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,920:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,920:INFO:mixing 91 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,928:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,933:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,933:INFO:mixing 93 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,941:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,945:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,946:INFO:mixing 95 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,951:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,957:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,957:INFO:mixing 96 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,964:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,969:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,969:INFO:mixing 98 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,976:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:36,981:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:36,981:INFO:mixing 99 of Magnitude with 0 of Phase 
+2021-06-14 05:40:36,989:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:37,033:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:37,033:INFO:mixing 100 of Magnitude with 0 of Phase 
+2021-06-14 05:40:37,054:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,666:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,666:INFO:mixing 100 of Magnitude with 4 of Phase 
+2021-06-14 05:40:38,688:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,701:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,702:INFO:mixing 100 of Magnitude with 9 of Phase 
+2021-06-14 05:40:38,717:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,724:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,725:INFO:mixing 100 of Magnitude with 17 of Phase 
+2021-06-14 05:40:38,735:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,744:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,744:INFO:mixing 100 of Magnitude with 22 of Phase 
+2021-06-14 05:40:38,754:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,762:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,762:INFO:mixing 100 of Magnitude with 33 of Phase 
+2021-06-14 05:40:38,772:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,777:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,777:INFO:mixing 100 of Magnitude with 36 of Phase 
+2021-06-14 05:40:38,784:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,788:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,789:INFO:mixing 100 of Magnitude with 41 of Phase 
+2021-06-14 05:40:38,795:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,800:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,800:INFO:mixing 100 of Magnitude with 43 of Phase 
+2021-06-14 05:40:38,807:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,812:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,812:INFO:mixing 100 of Magnitude with 44 of Phase 
+2021-06-14 05:40:38,819:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,824:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,824:INFO:mixing 100 of Magnitude with 47 of Phase 
+2021-06-14 05:40:38,830:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,834:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,834:INFO:mixing 100 of Magnitude with 50 of Phase 
+2021-06-14 05:40:38,842:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,847:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,847:INFO:mixing 100 of Magnitude with 51 of Phase 
+2021-06-14 05:40:38,854:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,858:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,858:INFO:mixing 100 of Magnitude with 52 of Phase 
+2021-06-14 05:40:38,865:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,870:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,870:INFO:mixing 100 of Magnitude with 54 of Phase 
+2021-06-14 05:40:38,877:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,881:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,881:INFO:mixing 100 of Magnitude with 56 of Phase 
+2021-06-14 05:40:38,889:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,897:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,897:INFO:mixing 100 of Magnitude with 58 of Phase 
+2021-06-14 05:40:38,907:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,913:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,913:INFO:mixing 100 of Magnitude with 59 of Phase 
+2021-06-14 05:40:38,919:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,925:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,925:INFO:mixing 100 of Magnitude with 61 of Phase 
+2021-06-14 05:40:38,932:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,937:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,937:INFO:mixing 100 of Magnitude with 64 of Phase 
+2021-06-14 05:40:38,944:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,949:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,949:INFO:mixing 100 of Magnitude with 71 of Phase 
+2021-06-14 05:40:38,956:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,961:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,961:INFO:mixing 100 of Magnitude with 73 of Phase 
+2021-06-14 05:40:38,969:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,975:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,975:INFO:mixing 100 of Magnitude with 80 of Phase 
+2021-06-14 05:40:38,984:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:38,992:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:38,992:INFO:mixing 100 of Magnitude with 81 of Phase 
+2021-06-14 05:40:39,004:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,011:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,011:INFO:mixing 100 of Magnitude with 91 of Phase 
+2021-06-14 05:40:39,021:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,027:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,027:INFO:mixing 100 of Magnitude with 99 of Phase 
+2021-06-14 05:40:39,034:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,039:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,039:INFO:mixing 100 of Magnitude with 100 of Phase 
+2021-06-14 05:40:39,046:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,341:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,342:INFO:mixing 100 of Magnitude with 96 of Phase 
+2021-06-14 05:40:39,362:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,373:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,373:INFO:mixing 100 of Magnitude with 88 of Phase 
+2021-06-14 05:40:39,381:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,387:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,387:INFO:mixing 100 of Magnitude with 85 of Phase 
+2021-06-14 05:40:39,396:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,402:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,402:INFO:mixing 100 of Magnitude with 77 of Phase 
+2021-06-14 05:40:39,410:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,416:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,416:INFO:mixing 100 of Magnitude with 72 of Phase 
+2021-06-14 05:40:39,425:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,431:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,431:INFO:mixing 100 of Magnitude with 69 of Phase 
+2021-06-14 05:40:39,439:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,445:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,445:INFO:mixing 100 of Magnitude with 65 of Phase 
+2021-06-14 05:40:39,454:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,460:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,460:INFO:mixing 100 of Magnitude with 64 of Phase 
+2021-06-14 05:40:39,466:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,471:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,472:INFO:mixing 100 of Magnitude with 62 of Phase 
+2021-06-14 05:40:39,478:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,483:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,483:INFO:mixing 100 of Magnitude with 60 of Phase 
+2021-06-14 05:40:39,490:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,495:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,495:INFO:mixing 100 of Magnitude with 59 of Phase 
+2021-06-14 05:40:39,502:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,507:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,507:INFO:mixing 100 of Magnitude with 57 of Phase 
+2021-06-14 05:40:39,513:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,518:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,518:INFO:mixing 100 of Magnitude with 55 of Phase 
+2021-06-14 05:40:39,526:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,531:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,531:INFO:mixing 100 of Magnitude with 53 of Phase 
+2021-06-14 05:40:39,538:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,543:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,543:INFO:mixing 100 of Magnitude with 52 of Phase 
+2021-06-14 05:40:39,550:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:39,563:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:39,563:INFO:mixing 100 of Magnitude with 51 of Phase 
+2021-06-14 05:40:39,569:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,011:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,011:INFO:mixing 99 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,033:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,067:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,067:INFO:mixing 98 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,079:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,086:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,086:INFO:mixing 93 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,098:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,106:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,106:INFO:mixing 78 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,117:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,124:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,125:INFO:mixing 73 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,138:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,143:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,143:INFO:mixing 55 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,154:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,161:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,162:INFO:mixing 51 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,171:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,176:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,176:INFO:mixing 41 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,182:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,187:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,188:INFO:mixing 37 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,195:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,199:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,199:INFO:mixing 34 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,208:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,213:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,213:INFO:mixing 33 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,221:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,226:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,226:INFO:mixing 32 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,232:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,238:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,238:INFO:mixing 31 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,245:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,254:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,254:INFO:mixing 30 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,260:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,371:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,371:INFO:mixing 29 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,393:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,409:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,409:INFO:mixing 28 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,423:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,428:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,429:INFO:mixing 27 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,437:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,559:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,559:INFO:mixing 26 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,578:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,591:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,591:INFO:mixing 25 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,599:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,606:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,606:INFO:mixing 23 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,613:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,619:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,619:INFO:mixing 20 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,627:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,631:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,632:INFO:mixing 18 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,638:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,643:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,644:INFO:mixing 17 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,650:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,656:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,656:INFO:mixing 16 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,662:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,675:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,675:INFO:mixing 15 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,682:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,908:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,908:INFO:mixing 16 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,927:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,940:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,941:INFO:mixing 36 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,955:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,961:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,961:INFO:mixing 65 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,969:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,975:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,976:INFO:mixing 77 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,983:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,989:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:41,989:INFO:mixing 95 of Magnitude with 51 of Phase 
+2021-06-14 05:40:41,994:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:41,999:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:42,000:INFO:mixing 100 of Magnitude with 51 of Phase 
+2021-06-14 05:40:42,007:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:43,822:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:43,822:INFO:mixing 100 of Magnitude with 54 of Phase 
+2021-06-14 05:40:43,841:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:43,850:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:43,850:INFO:mixing 100 of Magnitude with 60 of Phase 
+2021-06-14 05:40:43,864:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:43,873:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:43,874:INFO:mixing 100 of Magnitude with 68 of Phase 
+2021-06-14 05:40:43,886:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:43,894:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:43,895:INFO:mixing 100 of Magnitude with 75 of Phase 
+2021-06-14 05:40:43,908:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:43,917:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:43,917:INFO:mixing 100 of Magnitude with 79 of Phase 
+2021-06-14 05:40:43,930:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:43,935:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:43,935:INFO:mixing 100 of Magnitude with 82 of Phase 
+2021-06-14 05:40:43,943:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:43,949:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:43,949:INFO:mixing 100 of Magnitude with 95 of Phase 
+2021-06-14 05:40:43,957:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:43,964:INFO:Current mode is Magnitude and Phase
+2021-06-14 05:40:43,964:INFO:mixing 100 of Magnitude with 100 of Phase 
+2021-06-14 05:40:43,971:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:48,768:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:48,768:INFO:mixing 100 of Magnitude with 100 of UniPhase 
+2021-06-14 05:40:48,773:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:51,137:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:51,137:INFO:mixing 96 of Magnitude with 100 of UniPhase 
+2021-06-14 05:40:51,157:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:51,165:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:51,166:INFO:mixing 89 of Magnitude with 100 of UniPhase 
+2021-06-14 05:40:51,175:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:51,184:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:51,185:INFO:mixing 80 of Magnitude with 100 of UniPhase 
+2021-06-14 05:40:51,195:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:51,202:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:51,202:INFO:mixing 65 of Magnitude with 100 of UniPhase 
+2021-06-14 05:40:51,214:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:51,222:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:51,222:INFO:mixing 45 of Magnitude with 100 of UniPhase 
+2021-06-14 05:40:51,232:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:51,240:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:51,240:INFO:mixing 35 of Magnitude with 100 of UniPhase 
+2021-06-14 05:40:51,249:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:51,257:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:51,258:INFO:mixing 18 of Magnitude with 100 of UniPhase 
+2021-06-14 05:40:51,269:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:51,276:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:51,276:INFO:mixing 14 of Magnitude with 100 of UniPhase 
+2021-06-14 05:40:51,286:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:51,295:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:51,296:INFO:mixing 6 of Magnitude with 100 of UniPhase 
+2021-06-14 05:40:51,312:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:51,318:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:51,319:INFO:mixing 0 of Magnitude with 100 of UniPhase 
+2021-06-14 05:40:51,325:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,025:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,026:INFO:mixing 0 of Magnitude with 99 of UniPhase 
+2021-06-14 05:40:53,037:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,061:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,061:INFO:mixing 0 of Magnitude with 96 of UniPhase 
+2021-06-14 05:40:53,067:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,072:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,072:INFO:mixing 0 of Magnitude with 91 of UniPhase 
+2021-06-14 05:40:53,078:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,084:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,084:INFO:mixing 0 of Magnitude with 86 of UniPhase 
+2021-06-14 05:40:53,090:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,095:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,095:INFO:mixing 0 of Magnitude with 81 of UniPhase 
+2021-06-14 05:40:53,102:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,107:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,107:INFO:mixing 0 of Magnitude with 77 of UniPhase 
+2021-06-14 05:40:53,113:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,118:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,119:INFO:mixing 0 of Magnitude with 69 of UniPhase 
+2021-06-14 05:40:53,125:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,130:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,130:INFO:mixing 0 of Magnitude with 60 of UniPhase 
+2021-06-14 05:40:53,137:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,142:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,142:INFO:mixing 0 of Magnitude with 57 of UniPhase 
+2021-06-14 05:40:53,150:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,154:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,155:INFO:mixing 0 of Magnitude with 49 of UniPhase 
+2021-06-14 05:40:53,160:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,166:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,166:INFO:mixing 0 of Magnitude with 43 of UniPhase 
+2021-06-14 05:40:53,172:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,178:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,178:INFO:mixing 0 of Magnitude with 36 of UniPhase 
+2021-06-14 05:40:53,185:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,190:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,190:INFO:mixing 0 of Magnitude with 34 of UniPhase 
+2021-06-14 05:40:53,197:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,203:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,203:INFO:mixing 0 of Magnitude with 28 of UniPhase 
+2021-06-14 05:40:53,210:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,215:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,215:INFO:mixing 0 of Magnitude with 26 of UniPhase 
+2021-06-14 05:40:53,223:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,228:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,228:INFO:mixing 0 of Magnitude with 18 of UniPhase 
+2021-06-14 05:40:53,234:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,240:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,240:INFO:mixing 0 of Magnitude with 17 of UniPhase 
+2021-06-14 05:40:53,246:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,251:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,252:INFO:mixing 0 of Magnitude with 13 of UniPhase 
+2021-06-14 05:40:53,257:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,262:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,263:INFO:mixing 0 of Magnitude with 12 of UniPhase 
+2021-06-14 05:40:53,270:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,274:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,274:INFO:mixing 0 of Magnitude with 10 of UniPhase 
+2021-06-14 05:40:53,280:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,285:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,286:INFO:mixing 0 of Magnitude with 8 of UniPhase 
+2021-06-14 05:40:53,292:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,297:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,297:INFO:mixing 0 of Magnitude with 7 of UniPhase 
+2021-06-14 05:40:53,304:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,310:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,310:INFO:mixing 0 of Magnitude with 6 of UniPhase 
+2021-06-14 05:40:53,318:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,322:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,322:INFO:mixing 0 of Magnitude with 3 of UniPhase 
+2021-06-14 05:40:53,328:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,333:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,334:INFO:mixing 0 of Magnitude with 2 of UniPhase 
+2021-06-14 05:40:53,340:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,352:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,352:INFO:mixing 0 of Magnitude with 1 of UniPhase 
+2021-06-14 05:40:53,358:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:53,363:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:53,363:INFO:mixing 0 of Magnitude with 0 of UniPhase 
+2021-06-14 05:40:53,371:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,357:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,357:INFO:mixing 0 of Magnitude with 1 of UniPhase 
+2021-06-14 05:40:54,383:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,401:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,401:INFO:mixing 0 of Magnitude with 10 of UniPhase 
+2021-06-14 05:40:54,412:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,418:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,418:INFO:mixing 0 of Magnitude with 23 of UniPhase 
+2021-06-14 05:40:54,426:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,432:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,432:INFO:mixing 0 of Magnitude with 28 of UniPhase 
+2021-06-14 05:40:54,439:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,443:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,443:INFO:mixing 0 of Magnitude with 32 of UniPhase 
+2021-06-14 05:40:54,450:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,455:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,455:INFO:mixing 0 of Magnitude with 40 of UniPhase 
+2021-06-14 05:40:54,461:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,467:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,467:INFO:mixing 0 of Magnitude with 47 of UniPhase 
+2021-06-14 05:40:54,473:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,479:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,479:INFO:mixing 0 of Magnitude with 50 of UniPhase 
+2021-06-14 05:40:54,486:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,491:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,491:INFO:mixing 0 of Magnitude with 58 of UniPhase 
+2021-06-14 05:40:54,497:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,503:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,503:INFO:mixing 0 of Magnitude with 66 of UniPhase 
+2021-06-14 05:40:54,509:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,515:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,515:INFO:mixing 0 of Magnitude with 77 of UniPhase 
+2021-06-14 05:40:54,521:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,526:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,526:INFO:mixing 0 of Magnitude with 80 of UniPhase 
+2021-06-14 05:40:54,533:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,537:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,538:INFO:mixing 0 of Magnitude with 86 of UniPhase 
+2021-06-14 05:40:54,543:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,549:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,549:INFO:mixing 0 of Magnitude with 97 of UniPhase 
+2021-06-14 05:40:54,556:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:40:54,561:INFO:Current mode is Magnitude and UniPhase
+2021-06-14 05:40:54,561:INFO:mixing 0 of Magnitude with 100 of UniPhase 
+2021-06-14 05:40:54,568:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:01,003:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:03,072:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:03,072:INFO:mixing 0 of Real with 100 of Imaginary 
+2021-06-14 05:41:03,081:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,272:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,272:INFO:mixing 2 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,281:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,286:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,286:INFO:mixing 4 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,292:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,298:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,298:INFO:mixing 9 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,305:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,310:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,310:INFO:mixing 15 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,317:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,323:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,323:INFO:mixing 20 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,331:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,338:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,339:INFO:mixing 28 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,349:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,356:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,356:INFO:mixing 44 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,364:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,369:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,369:INFO:mixing 48 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,376:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,381:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,381:INFO:mixing 56 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,388:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,394:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,394:INFO:mixing 59 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,405:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,413:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,413:INFO:mixing 64 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,423:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,428:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,428:INFO:mixing 67 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,435:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,446:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,446:INFO:mixing 69 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,453:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,458:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,458:INFO:mixing 70 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,465:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,504:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,505:INFO:mixing 71 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,512:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,529:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,529:INFO:mixing 73 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,536:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,541:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,542:INFO:mixing 77 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,551:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,556:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,556:INFO:mixing 81 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,563:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,570:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,570:INFO:mixing 85 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,581:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,587:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,587:INFO:mixing 86 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,593:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,600:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,600:INFO:mixing 90 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,607:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,613:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,613:INFO:mixing 93 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,620:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,633:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,633:INFO:mixing 94 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,640:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,645:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,646:INFO:mixing 95 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,653:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:04,750:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:04,750:INFO:mixing 96 of Real with 100 of Imaginary 
+2021-06-14 05:41:04,757:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:05,007:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:05,007:INFO:mixing 93 of Real with 100 of Imaginary 
+2021-06-14 05:41:05,015:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:05,019:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:05,020:INFO:mixing 85 of Real with 100 of Imaginary 
+2021-06-14 05:41:05,026:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:05,032:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:05,032:INFO:mixing 73 of Real with 100 of Imaginary 
+2021-06-14 05:41:05,038:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:05,044:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:05,044:INFO:mixing 60 of Real with 100 of Imaginary 
+2021-06-14 05:41:05,052:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:05,057:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:05,057:INFO:mixing 47 of Real with 100 of Imaginary 
+2021-06-14 05:41:05,064:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:05,070:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:05,070:INFO:mixing 28 of Real with 100 of Imaginary 
+2021-06-14 05:41:05,078:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:05,084:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:05,084:INFO:mixing 18 of Real with 100 of Imaginary 
+2021-06-14 05:41:05,090:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:05,097:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:05,097:INFO:mixing 14 of Real with 100 of Imaginary 
+2021-06-14 05:41:05,104:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:05,109:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:05,109:INFO:mixing 3 of Real with 100 of Imaginary 
+2021-06-14 05:41:05,117:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:05,122:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:05,122:INFO:mixing 0 of Real with 100 of Imaginary 
+2021-06-14 05:41:05,130:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,792:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,792:INFO:mixing 0 of Real with 99 of Imaginary 
+2021-06-14 05:41:06,799:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,815:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,816:INFO:mixing 0 of Real with 98 of Imaginary 
+2021-06-14 05:41:06,821:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,827:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,827:INFO:mixing 0 of Real with 96 of Imaginary 
+2021-06-14 05:41:06,834:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,839:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,839:INFO:mixing 0 of Real with 92 of Imaginary 
+2021-06-14 05:41:06,845:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,849:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,849:INFO:mixing 0 of Real with 87 of Imaginary 
+2021-06-14 05:41:06,856:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,861:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,861:INFO:mixing 0 of Real with 83 of Imaginary 
+2021-06-14 05:41:06,867:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,874:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,874:INFO:mixing 0 of Real with 77 of Imaginary 
+2021-06-14 05:41:06,881:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,886:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,886:INFO:mixing 0 of Real with 66 of Imaginary 
+2021-06-14 05:41:06,892:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,897:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,897:INFO:mixing 0 of Real with 60 of Imaginary 
+2021-06-14 05:41:06,903:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,908:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,908:INFO:mixing 0 of Real with 51 of Imaginary 
+2021-06-14 05:41:06,915:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,919:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,919:INFO:mixing 0 of Real with 41 of Imaginary 
+2021-06-14 05:41:06,926:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,931:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,931:INFO:mixing 0 of Real with 32 of Imaginary 
+2021-06-14 05:41:06,937:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,942:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,942:INFO:mixing 0 of Real with 29 of Imaginary 
+2021-06-14 05:41:06,953:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,960:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,961:INFO:mixing 0 of Real with 19 of Imaginary 
+2021-06-14 05:41:06,971:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,980:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:06,980:INFO:mixing 0 of Real with 11 of Imaginary 
+2021-06-14 05:41:06,991:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:06,999:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:07,000:INFO:mixing 0 of Real with 6 of Imaginary 
+2021-06-14 05:41:07,011:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:07,017:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:07,017:INFO:mixing 0 of Real with 4 of Imaginary 
+2021-06-14 05:41:07,024:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:07,030:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:07,030:INFO:mixing 0 of Real with 3 of Imaginary 
+2021-06-14 05:41:07,036:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:07,059:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:07,059:INFO:mixing 0 of Real with 2 of Imaginary 
+2021-06-14 05:41:07,066:INFO:Component 1 is Image1 , component 2 is Image2
+2021-06-14 05:41:07,117:INFO:Current mode is Real and Imaginary
+2021-06-14 05:41:07,117:INFO:mixing 0 of Real with 0 of Imaginary 
+2021-06-14 05:41:07,123:INFO:Component 1 is Image1 , component 2 is Image2
